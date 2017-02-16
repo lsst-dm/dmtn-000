@@ -7,11 +7,11 @@
   .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.#####.svg
      :target: http://dx.doi.org/10.5281/zenodo.#####
 
-###############################
-DMTN-000 The Jointcal algorithm
-###############################
+#######################################################
+DMTN-000 The LSST Data Management Technical Note Series
+#######################################################
 
-This note describes jointcal’s algorithm, fitting process, and currently available models.
+This note describes DM Technical Notes, their role and what topics they can cover.
 
 View this technote at https://dmtn-000.lsst.io or see a preview of the current version in `this repo`_.
 
